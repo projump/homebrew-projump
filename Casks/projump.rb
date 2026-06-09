@@ -9,8 +9,8 @@
 # then fill in the sha256 (shasum -a 256 dist/Projump-<version>.zip) and Tontoon7.
 
 cask "projump" do
-  version "0.1.0"
-  sha256 "0ac310f1b9d428773f8aebb4404add1bce0a238c0b515fd300a7d60bb3cfa45e"
+  version "0.1.1"
+  sha256 "9924054bc2aba92ea869f003a244e1652b752cd4269e4d0234caba906139582d"
 
   url "https://github.com/Tontoon7/projump/releases/download/v#{version}/Projump-#{version}.zip"
   name "Projump"
