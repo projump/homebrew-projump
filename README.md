@@ -1,7 +1,7 @@
 # Homebrew Tap for Projump
 
 ```sh
-brew install --cask Tontoon7/projump/projump
+brew install --cask projump/projump/projump
 ```
 
-See https://github.com/Tontoon7/projump
+See https://github.com/projump/projump
